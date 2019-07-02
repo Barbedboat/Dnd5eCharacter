@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters version="5">
+	<pc>
+		<label>Skenk McGenk</label>
+		<name>Elf (High) Wizard 1</name>
+		<level>1</level>
+		<size>M</size>
+		<init>1</init>
+		<ac>13 (Studded Leather Armor)</ac>
+		<hp>7/7 (1d6)</hp>
+		<speed>30 ft.</speed>
+		<str>8</str><dex>12</dex><con>12</con><int>15</int><wis>10</wis><cha>15</cha>
+		<save>Intelligence +4</save>
+		<save>Wisdom +2</save>
+		<skill>Acrobatics +3</skill>
+		<skill>Arcana +4</skill>
+		<skill>History +4</skill>
+		<skill>Medicine +2</skill>
+		<skill>Perception +2</skill>
+		<passive>12</passive>
+		<languages>You can speak, read, and write Common, Elvish, and one extra language of your choice. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</languages>
+		<action>
+			<name>Shortsword</name>
+			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d6 + 1 piercing damage.</text>
+			<attack>|+3|1d6+1</attack>
+		</action>
+	</pc>
+</characters>
